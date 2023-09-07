@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm currently working on [CV Generator][cv_generator]
+### I'm currently learning [Web Dev][webDevBootcamp2023]
+### In the past I've used:
+- C (Algorithms and Data Structures)
+- Python (Algorithms and django framework)
+
+[cv_generator]: https://github.com/MgK720/CV_generator
+[webDevBootcamp2023]: https://www.udemy.com/course/the-web-developer-bootcamp/
 
 <!--
 **MgK720/MgK720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

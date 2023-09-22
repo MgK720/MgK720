@@ -1,5 +1,5 @@
 # I'm currently working on [CV Generator][cv_generator]
-# I'm currently learning [Web Dev][webDevBootcamp2023]
+# I'm currently learning React
 # Completed courses:
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
 # In the past I've used:

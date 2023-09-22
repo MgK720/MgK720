@@ -2,6 +2,7 @@
 **I'm currently learning React** <br>
 **Completed courses:**  <br>
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
+
 **In the past I've used:** <br>
 - C (Algorithms and Data Structures)
 - Python (mainly Graph Data structure and Algorithms, django framework)

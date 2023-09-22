@@ -1,8 +1,8 @@
-** I'm currently working on [CV Generator][cv_generator]**
-** I'm currently learning React **
-** Completed courses: **
+# I'm currently working on [CV Generator][cv_generator]
+# I'm currently learning React 
+# Completed courses: 
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
-** In the past I've used: **
+# In the past I've used: 
 - C (Algorithms and Data Structures)
 - Python (mainly Graph Data structure and Algorithms, django framework)
 
@@ -10,17 +10,3 @@
 [webDevBootcamp2023]: https://www.udemy.com/course/the-web-developer-bootcamp/
 [webDevBootcamp2023Certificate]: https://www.udemy.com/certificate/UC-5eaacae8-3445-45c0-8ece-3dae751b9c15/
 
-<!--
-**MgK720/MgK720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

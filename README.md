@@ -1,8 +1,8 @@
-# I'm currently working on [CV Generator][cv_generator]
-# I'm currently learning React 
-# Completed courses: 
+**I'm currently working on [CV Generator][cv_generator]**
+**I'm currently learning React**
+**Completed courses:** 
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
-# In the past I've used: 
+**In the past I've used:**
 - C (Algorithms and Data Structures)
 - Python (mainly Graph Data structure and Algorithms, django framework)
 

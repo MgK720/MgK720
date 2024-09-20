@@ -1,11 +1,20 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,js,jquery,css,bootstrap,materialui,nodejs,express,react,postgres,django,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,js,jquery,css,bootstrap,materialui,nodejs,express,react,postgres,py,django,docker,linux" />
   </a>
 </p>
 
-**My professional portfolio:** <br>
-- [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. **Live**
+**Professional projects:** <br>
+- [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. **WiP**
+
+**Private projects - learning purposes:** <br>
+- [CV Generator][cv_gen] - CV Generator is simple web tool for making cv. It has built in TalentFinder - as a employer you can find talented people. Fullstack web application.
+- [SQL Company Equipment][sql_comp] - PostgreSQL DB.
+- [Online Shop Demo][react_learning] - React learning.
+- [OOP Java] - object-oriented programming learning.
+
+**Projects from courses:** <br>
+- [Python & Django - Advanced][django_python_advanced]
 
 **Completed courses:**  <br>
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
@@ -16,6 +25,11 @@
 - Python (mainly Graph Data structure and Algorithms, django framework)
 
 [fundacja]: https://mgk720.github.io/fundacja/
+[cv_gen]: https://github.com/MgK720/CV_generator/
+[sql_company]:https://github.com/MgK720/sql_company_equipment/
+[react_learning]:https://github.com/MgK720/OnlineShop_demo/
+[oop_java]:https://github.com/MgK720/java_project_oop/
+[django_python_advanced]:https://github.com/MgK720/recipe-app-api/
 [webDevBootcamp2023]: https://www.udemy.com/course/the-web-developer-bootcamp/
 [webDevBootcamp2023Certificate]: https://www.udemy.com/certificate/UC-5eaacae8-3445-45c0-8ece-3dae751b9c15/
 [pythonBackendREST_API]: https://www.udemy.com/course/django-python-advanced/

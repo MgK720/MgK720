@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
 **My professional portfolio:** <br>
 - [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. **Live**
 

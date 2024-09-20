@@ -1,4 +1,4 @@
-**My professional portfolio: ** <br>
+**My professional portfolio:** <br>
 - [Fundacja][fundacja] Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update.
 
 **Completed courses:**  <br>

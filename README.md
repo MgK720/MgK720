@@ -5,7 +5,7 @@
 </p>
 
 **Professional projects:** <br>
-- [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. **WiP**
+- [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. 
 
 **Private projects - learning purposes:** <br>
 - [CV Generator][cv_gen] - CV Generator is simple web tool for making cv. It has built in TalentFinder - as a employer you can find talented people. Fullstack web application.
@@ -24,7 +24,7 @@
 - C (Algorithms and Data Structures)
 - Python (mainly Graph Data structure and Algorithms, django framework)
 
-[fundacja]: https://mgk720.github.io/fundacja/
+[fundacja]: https://dkswspolnadroga.org/
 [cv_gen]: https://github.com/MgK720/CV_generator/
 [sql_company]: https://github.com/MgK720/sql_company_equipment/
 [react_learning]: https://github.com/MgK720/OnlineShop_demo/

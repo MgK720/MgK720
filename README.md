@@ -17,7 +17,7 @@
 - [Python & Django - Advanced][django_python_advanced]
 
 **Completed courses:**  <br>
-- [AI in business development][]([certificate][AIinBusinessDev])
+- [AI in business development][main]([certificate][AIinBusinessDev])
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
 - [Build a Backend REST API with Python & Django - Advanced][pythonBackendREST_API] ([certificate][pythonBackendREST_APICertificate])
 
@@ -25,6 +25,7 @@
 - C (Algorithms and Data Structures)
 - Python (mainly Graph Data structure and Algorithms, django framework)
 
+[main]:https://github.com/MgK720/
 [fundacja]: https://dkswspolnadroga.org/
 [cv_gen]: https://github.com/MgK720/CV_generator/
 [sql_company]: https://github.com/MgK720/sql_company_equipment/

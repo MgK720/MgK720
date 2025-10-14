@@ -17,7 +17,7 @@
 - [Python & Django - Advanced][django_python_advanced]
 
 **Completed courses:**  <br>
-- [AI in business development][main] ([certificate][AIinBusinessDev])
+- [AI in Business Development – Google & SGH, Umiejętności Jutra AI 2.0][main] ([certificate][AIinBusinessDev])
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
 - [Build a Backend REST API with Python & Django - Advanced][pythonBackendREST_API] ([certificate][pythonBackendREST_APICertificate])
 

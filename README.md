@@ -17,6 +17,7 @@
 - [Python & Django - Advanced][django_python_advanced]
 
 **Completed courses:**  <br>
+- [AI in business development]([certificate][AIinBusinessDev)
 - [The Web Developer Bootcamp 2023][webDevBootcamp2023] ([certificate][webDevBootcamp2023Certificate])
 - [Build a Backend REST API with Python & Django - Advanced][pythonBackendREST_API] ([certificate][pythonBackendREST_APICertificate])
 
@@ -30,6 +31,7 @@
 [react_learning]: https://github.com/MgK720/OnlineShop_demo/
 [oop_java]: https://github.com/MgK720/java_project_oop/
 [django_python_advanced]: https://github.com/MgK720/recipe-app-api/
+[AIinBusinessDev]: https://github.com/MgK720/MgK720/blob/main/49b0a298-90a6-43f9-9083-e4566b6ddcf7.pdf
 [webDevBootcamp2023]: https://www.udemy.com/course/the-web-developer-bootcamp/
 [webDevBootcamp2023Certificate]: https://www.udemy.com/certificate/UC-5eaacae8-3445-45c0-8ece-3dae751b9c15/
 [pythonBackendREST_API]: https://www.udemy.com/course/django-python-advanced/

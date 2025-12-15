@@ -1,6 +1,54 @@
+### **Tech stack in my current role (Rest Lords – Junior Website Specialist)**
+This section outlines the technologies and tools I actively use in my current role, covering website development, backend customization, automation, and internal process support.
+
+<p align="center">
+  <a href="https://restlords.com/pl" title="Polish version"><strong>PL</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://restlords.com/en" title="English version"><strong>EN</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://restlords.com/de" title="German version"><strong>DE</strong></a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,js,jquery,css,bootstrap,materialui,nodejs,express,react,postgres,py,django,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=github,wordpress,html,js,jquery,css,php,py,docker" />
+  </a>
+</p>
+
+
+**Web & CMS:**
+
+* WordPress
+* WooCommerce
+* Divi Theme / Divi Builder
+
+**Backend / Server-side:**
+
+* **PHP** – bug fixing, extending existing functionality, and developing **custom WordPress/WooCommerce plugins** tailored to current business and operational needs, often independently designed and implemented
+
+**Frontend / Web tools:**
+
+* HTML, CSS, JavaScript, jQuery
+
+**Automation & scripting:**
+
+* **Python** – automation scripts, internal tools, process optimization
+* **Google Apps Script** – workflow automation, integrations, internal utilities
+* Custom scripts and tooling supporting and optimizing daily business operations
+
+**Other responsibilities:**
+
+* Website content management and development for **PL / EN / DE** versions
+* Promotional campaign implementation
+* Internal staff support (sales advisors, operations, office team)
+
+---
+### **Learning & additional technologies**
+Technologies used in side projects, learning, and experimentation beyond my current commercial role.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,nodejs,express,react,postgres,linux,django,netlify " />
   </a>
 </p>
 
@@ -27,6 +75,9 @@
 
 [main]:https://github.com/MgK720/
 [fundacja]: https://dkswspolnadroga.org/
+[restlordspl]:https://restlords.com/pl/
+[restlordsen]:https://restlords.com/en/
+[restlordsde]:https://restlords.com/de/
 [cv_gen]: https://github.com/MgK720/CV_generator/
 [sql_company]: https://github.com/MgK720/sql_company_equipment/
 [react_learning]: https://github.com/MgK720/OnlineShop_demo/

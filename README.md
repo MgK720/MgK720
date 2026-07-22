@@ -1,4 +1,4 @@
-### **Tech stack in my current role (Rest Lords – Junior Website Specialist)**
+### **Tech stack in my current role (Rest Lords – <s>Junior</s> Website Specialist)**
 This section outlines the technologies and tools I actively use in my current role, covering website development, backend customization, automation, and internal process support.
 
 <p align="center">

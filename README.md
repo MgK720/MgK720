@@ -30,6 +30,13 @@ This section outlines the technologies and tools I actively use in my current ro
 
 * HTML, CSS, JavaScript, jQuery
 
+**Zoho / Business Systems & Automation:**
+
+* **Zoho Flow** – designing robust, well-structured, and maintainable workflows and integrations, with a strong focus on reliability, debuggability, error handling, and following good development practices
+* **Zoho CRM** – configuration, customization, workflows, and automation tailored to specific business and operational requirements
+* **Zoho Creator** – designing and developing advanced custom business applications, including application structure, data models, business logic, workflows, automation, and user-facing interfaces
+* **Zoho ecosystem** – maintaining consistency and interoperability across Zoho applications, connecting business processes and data between systems, and building cohesive solutions that streamline internal operations and reduce manual work
+
 **Automation & scripting:**
 
 * **Python** – automation scripts, internal tools, process optimization

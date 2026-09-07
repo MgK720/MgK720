@@ -63,7 +63,7 @@ Technologies used in side projects, learning, and experimentation beyond my curr
 - [DKS Wspólna Droga][fundacja] - Professional, low-budget foundation website using: html, css, js, bootstrap, static files. Very easy to update. 
 
 **Private projects - learning purposes:** <br>
-- [Dijkstra Across The Universe](https://github.com/MgK720/Dijkstra-Across-The-Universe) – Experimental 3D visualization of Dijkstra's shortest-path algorithm across a procedurally generated galaxy. Used as an AI-assisted development experiment focused on iterative prompting, agentic workflows, validation and debugging.
+- [Dijkstra Across The Universe](https://github.com/MgK720/Dijkstra-Across-The-Universe) – Experimental 3D visualization of Dijkstra's shortest-path algorithm across a procedurally generated galaxy. Built as a specification-driven AI engineering experiment focused on designing a strong upfront prompt and testing GPT-6 Astra's ability to independently execute a non-trivial software task.
 - [CV Generator][cv_gen] - CV Generator is simple web tool for making cv. It has built in TalentFinder - as a employer you can find talented people. Fullstack web application.
 - [SQL Company Equipment][sql_company] - PostgreSQL DB.
 - [Online Shop Demo][react_learning] - React learning.
